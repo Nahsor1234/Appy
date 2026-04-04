@@ -1,0 +1,16 @@
+{
+  "placeholderImages": [
+    {
+      "id": "app-icon-192",
+      "description": "Professional high-fidelity minimalist soundwave icon 192x192",
+      "imageUrl": "https://picsum.photos/seed/pulsyvibe-pro-hq-192/192/192",
+      "imageHint": "minimalist soundwave"
+    },
+    {
+      "id": "app-icon-512",
+      "description": "Professional high-fidelity minimalist soundwave icon 512x512",
+      "imageUrl": "https://picsum.photos/seed/pulsyvibe-pro-hq-512/512/512",
+      "imageHint": "minimalist soundwave"
+    }
+  ]
+}
